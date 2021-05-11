@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Sergio I Mota</title>
+    <link>https://amigo20th.github.io/projects/creations/</link>
+    <description>Recent content in Projects on Sergio I Mota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://amigo20th.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segmentation of areas damaged by COVID-19 through isolation forest in lung images.</title>
+      <link>https://amigo20th.github.io/projects/creations/pulmones_covid_iforest/</link>
+      <pubDate>Mon, 11 Jan 2021 12:41:05 -0500</pubDate>
+      
+      <guid>https://amigo20th.github.io/projects/creations/pulmones_covid_iforest/</guid>
+      <description>Collaborative research project, this seeks to segment the areas damaged by COVID-19 in images of the lungs. Segmentation will be done through Isolation Forest.
+What is sought is to apply an outlier detection method to find the damaged areas in the lung, the purpose is to use a method that is not so computationally expensive and that serves as a guide for experts to perform evaluations more quickly.
+Images of the damaged lungs were obtained by positron emission tomography.</description>
+    </item>
+    
+    <item>
+      <title>Creation of a divorce prediction test website.</title>
+      <link>https://amigo20th.github.io/projects/creations/divorce_prediction_test/</link>
+      <pubDate>Tue, 11 Feb 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://amigo20th.github.io/projects/creations/divorce_prediction_test/</guid>
+      <description>In this project we are going to do a logistic regression using a single neuron or also called a perceptron.
+The data set to be regressed will be based on predictors of divorce.
+This project was brought into production using Flask, Html, JavaScript, CSS and Heroku.
+NOTE: This project is just for fun.
+Link to page code: https://github.com/amigo20th/Predictor_divorcios_aplicacion
+Link to the perceptron code: https://github.com/amigo20th/Regresion_Logistica_Divorcios</description>
+    </item>
+    
+    <item>
+      <title>Solution to the traveling salesman problem using the Eclectic Genetic Algorithm.</title>
+      <link>https://amigo20th.github.io/projects/creations/ega_salesman_problem/</link>
+      <pubDate>Sun, 11 Mar 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://amigo20th.github.io/projects/creations/ega_salesman_problem/</guid>
+      <description>Python implementation of the Eclectic Genetic Algorithm to find the shortest route of 50 cities of the traveling salesman. problem.</description>
+    </item>
+    
+    <item>
+      <title>Eclectic Genetic Algorithm [EGA] in Python with application in a linear equation.</title>
+      <link>https://amigo20th.github.io/projects/creations/ega_linear_equation/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://amigo20th.github.io/projects/creations/ega_linear_equation/</guid>
+      <description>In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on biologically inspired operators such as mutation, crossover and selection.[1]
+This code contains the implementation of a type of genetic algorithm, it is Eclectic Genetic Algorithm EGA[2].</description>
+    </item>
+    
+  </channel>
+</rss>
