@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Sergio I Mota</title>
+    <link>https://amigo20th.github.io/publications/</link>
+    <description>Recent content in Publications on Sergio I Mota</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:47:30 +0000</lastBuildDate><atom:link href="https://amigo20th.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Constellations: Reimagining Celestial Histories in the Early Americas</title>
+      <link>https://amigo20th.github.io/publications/constellations/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amigo20th.github.io/publications/constellations/</guid>
+      <description>In our universe, the books are stars, represented as circles, or nodes.
+Constellations were defined by a curatorial process, and later validated through an analysis of frequency of use of the most common words found in the curatorial labels (excluding articles, prepositions, and so on).
+Constellations are depicted as graphs, or networks, and the relationships between books, that is, the connection between stars, are shown as edges. An edge between stars denotes a similar description based on tags.</description>
+    </item>
+    
+    <item>
+      <title>Different approaches to the detection of anomalies.</title>
+      <link>https://amigo20th.github.io/publications/presentacion_ame2020/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://amigo20th.github.io/publications/presentacion_ame2020/</guid>
+      <description>The presentation was made within the Virtual Colloquium of the Mexican Statistical Association (Asociación Mexicana de Estadística, AME) 2020.
+The main topic of the presentation was the algorithms for the detection of outliers, different approaches were shown for this detection, each approach had its respective examples, which were:
+  Statistical approach: Box-and-Whisker plot and MAD.
+  Density approach: LOF and Isolation Forest.
+  Approach through Machine Learning: Autoencoders and Self-Organizing Maps.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Detection of Outliers in In-vitro Cellular Gene Expression Data</title>
+      <link>https://amigo20th.github.io/publications/poster_bio_mat_19/</link>
+      <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://amigo20th.github.io/publications/poster_bio_mat_19/</guid>
+      <description>The poster was exhibited within the Fall School in Mathematical Biology (Escuela de Otoño en Biología Matemática, EOBM) 2019 that was assigned to Mérida, Yucatán.
+The poster shows the results of the application of different methods to detect outliers in a set of vitamin D genes.
+The dataset only had 3 attributes, which were:
+  Retention intensity of the Vitamin D Receptor (VDR) at 8 hours.
+  Retention intensity of the Vitamin D Receptor (VDR) at 24 hours.</description>
+    </item>
+    
+  </channel>
+</rss>
